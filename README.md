@@ -63,8 +63,3 @@ I'm an Electrical and Electronic Engineering graduate with a strong interest in 
 - 📧 Email: YOUR_EMAIL
 - 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
 
----
-
-### 💡 "Building systems where hardware, communication and intelligence meet."
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)

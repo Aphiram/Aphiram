@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Aphiram Aravinthan 👋
 
-<!--
-**Aphiram/Aphiram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical & Electronic Engineer | Lecturer | Research Enthusiast
 
-Here are some ideas to get you started:
+I'm an Electrical and Electronic Engineering graduate with a strong interest in **communication and sensing systems, IoT, embedded systems, and intelligent technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working as a **Lecturer on Contract at the University of Moratuwa**, where I am involved in teaching, academic activities, and research-oriented work.
+
+I enjoy building systems that connect **hardware, wireless communication, sensing, cloud technologies, and intelligent computing** to solve practical problems.
+
+---
+
+## 🔬 Research Interests
+
+- 📡 Communication & Sensing Systems
+- 🤖 Machine Learning for Engineering Applications
+- 🌐 Internet of Things (IoT)
+- 🔧 Embedded Systems
+- 📶 Wireless Communication
+- 🧠 Intelligent & Connected Systems
+- ☁️ Edge & Cloud Computing
+- ⚡ Hardware-Software Co-design
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Development
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### IoT & Embedded Systems
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-0A0A0A?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+
+### Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+
+### ML / AI & Data Analysis
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Engineering & Design
+![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+
+## 📊 GitHub Stats
+
+![Aphiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: YOUR_EMAIL
+- 🌐 Portfolio: [Your Portfolio](YOUR_PORTFOLIO_URL)
+
+---
+
+### 💡 "Building systems where hardware, communication and intelligence meet."
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)

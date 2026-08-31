@@ -2,18 +2,13 @@
 
 ### Electrical & Electronic Engineer | Lecturer | Research Enthusiast
 
-I'm an Electrical and Electronic Engineering graduate with a strong interest in **communication and sensing systems, IoT, embedded systems, and intelligent technologies**.
-
-I'm currently working as a **Lecturer on Contract at the University of Moratuwa**, where I am involved in teaching, academic activities, and research-oriented work.
-
-I enjoy building systems that connect **hardware, wireless communication, sensing, cloud technologies, and intelligent computing** to solve practical problems.
+I'm an Electrical and Electronic Engineering graduate with a strong interest in **communication and sensing systems, IoT, embedded systems, and intelligent technologies**. I enjoy building systems that connect **hardware, wireless communication, sensing, cloud technologies, and intelligent computing** to solve practical problems.
 
 ---
 
 ## 🔬 Research Interests
 
 - 📡 Communication & Sensing Systems
-- 🤖 Machine Learning for Engineering Applications
 - 🌐 Internet of Things (IoT)
 - 🔧 Embedded Systems
 - 📶 Wireless Communication
@@ -55,8 +50,6 @@ I enjoy building systems that connect **hardware, wireless communication, sensin
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-
-
 
 ## 📫 Connect With Me
 
